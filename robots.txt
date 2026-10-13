@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-82bfdc58de.mhftuza.cn/sitemap.xml
